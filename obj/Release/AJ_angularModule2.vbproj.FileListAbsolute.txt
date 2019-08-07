@@ -1,0 +1,9 @@
+I:\wwwroot\dnndev.me\bin\AJ_angularModule2.dll.config
+I:\wwwroot\dnndev.me\bin\AJ_angularModule2.dll
+I:\wwwroot\dnndev.me\bin\AJ_angularModule2.pdb
+I:\wwwroot\dnndev.me\bin\AJ_angularModule2.xml
+I:\wwwroot\dnndev.me\DesktopModules\AJ_angularModule2\obj\Release\AJ_angularModule2.vbprojAssemblyReference.cache
+I:\wwwroot\dnndev.me\DesktopModules\AJ_angularModule2\obj\Release\AJ_angularModule2.vbproj.CoreCompileInputs.cache
+I:\wwwroot\dnndev.me\DesktopModules\AJ_angularModule2\obj\Release\AJ_angularModule2.dll
+I:\wwwroot\dnndev.me\DesktopModules\AJ_angularModule2\obj\Release\AJ_angularModule2.xml
+I:\wwwroot\dnndev.me\DesktopModules\AJ_angularModule2\obj\Release\AJ_angularModule2.pdb
