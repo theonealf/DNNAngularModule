@@ -11,9 +11,12 @@
 <dnn:DnnCssInclude runat="server" FilePath="~/Resources/libraries/angular-ng-dialog/00_05_01/ngDialog.min.css" />
 <dnn:DnnCssInclude runat="server" FilePath="~/Resources/libraries/angular-ng-dialog/00_05_01/ngDialog-theme-default.min.css" />
 
+<dnn:DnnJsInclude runat="server" FilePath="~/DesktopModules/AJ_angularModule2/Script/app.js" Priority="40"/>
+<dnn:DnnJsInclude runat="server" FilePath="~/DesktopModules/AJ_angularModule2/Script/Service/itemService.js" Priority="100" />
+<dnn:DnnJsInclude runat="server" FilePath="~/DesktopModules/AJ_angularModule2/Script/Controller/itemController.js" Priority="100" />
 
 <div id="itemApp<%=ModuleId%>" class="itemApp">
-    <div ng-view>Loading...Angular</div>
+    <div ng-view>Loading...Angular2</div>
 </div>
 
 <script>

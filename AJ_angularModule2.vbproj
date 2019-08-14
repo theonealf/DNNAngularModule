@@ -169,6 +169,11 @@
     <Content Include="License.txt" />
     <Content Include="module.css" />
     <Content Include="ReleaseNotes.txt" />
+    <Content Include="Script\app.js" />
+    <Content Include="Script\Controller\itemController.js" />
+    <Content Include="Script\Service\itemService.js" />
+    <Content Include="Script\Template\index.html" />
+    <Content Include="Script\Template\itemForm.html" />
     <Content Include="Settings.ascx" />
     <Content Include="View.ascx" />
   </ItemGroup>
@@ -192,15 +197,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Providers\DataProviders\SqlDataProvider\UnInstall.sqldataprovider" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="web.config" />
-    <None Include="web.Debug.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
-    <None Include="web.Release.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
